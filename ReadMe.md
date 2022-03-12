@@ -1,4 +1,4 @@
-### NJ for Nick Carducci 2024
+### Minimal Viable Product Declarations of permits for voluntary trade
 
-carducci.us
-github.com/nickcarducci/2024nj.com
+offbrandroundtable.com
+github.com/nickcarducci/Offbrandroundtable

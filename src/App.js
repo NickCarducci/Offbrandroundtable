@@ -128,8 +128,8 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
-        <h2>Offbrandroundtable</h2>
-        “Find common ground and relate.”
+        <h2>Offbrandroundtable</h2>“
+        <a href="https://qr.ae/pGLK4n">Find common ground and relate</a>.”
         <br />
         Whipping Boy Index Fund
         <br />
